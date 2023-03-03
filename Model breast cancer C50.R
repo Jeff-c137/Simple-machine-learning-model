@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning in Diagnosing Breast Cancer"
-author: "Njorge"
+author: "Njoroge "
 date: "2023-03-2"
 ---
 #Machine learning used in breast cancer diagnosis 
